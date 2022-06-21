@@ -6,7 +6,8 @@ In this project, "We the people" in the US is an application that displays the W
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/82471515/174751277-bf033e75-77e4-4a27-ae32-1d14d581f266.png" width=280 height=550></td><td><th>
+    <td><img src="https://user-images.githubusercontent.com/82471515/174751277-bf033e75-77e4-4a27-ae32-1d14d581f266.png" width=280 height=550></td>
+    <th>
     <td><img src="https://user-images.githubusercontent.com/82471515/174751418-797a0b12-684f-47be-b5c1-f8bdcfa75f87.png" width=280 height=550></td>
  </table>
  <table>
